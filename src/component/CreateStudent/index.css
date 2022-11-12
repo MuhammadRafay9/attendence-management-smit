@@ -1,0 +1,19 @@
+.buttonrow.row
+{
+    margin-top: 2%;
+    justify-content: flex-end;
+}
+.mfooter
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+}
+
+td.mfooter button
+{
+
+    width: 150px;
+    height: 30px;
+    margin-right: 1%;
+}
